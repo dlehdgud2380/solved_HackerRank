@@ -1,2 +1,2 @@
-# hackerrank.com-Solve
+# solved_hackerrank.com
 Tried hackerrank.com's problem. 
